@@ -34,6 +34,5 @@ Snaps of my dashboard
 
 ![CHURNRATE1](https://github.com/user-attachments/assets/00941008-bf48-42fd-9987-78f09c258f4c)
 
-![CHRNRATE2](https://github.com/user-attachments/assets/033cfdfe-ab98-4320-872e-bfc97072f81d)
-
-![CHURNRATE3](https://github.com/user-attachments/assets/90df46b4-5360-493f-97c9-c31939fdf797)
+![CHRNRATE2](https://github.com/user-attachments/assets/a69e1e5c-2cd3-4016-a6e3-2830d5e222f4)
+![CHURNRATE3](https://github.com/user-attachments/assets/ce2bcfa1-2042-4161-91a6-e5abf091143b)
